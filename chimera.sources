@@ -1,0 +1,4 @@
+Types: deb
+URIs: https://repo.chimera.sh
+Suites: ./
+Components:
